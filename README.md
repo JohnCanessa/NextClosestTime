@@ -10,7 +10,7 @@ given time.
 If interested in this problem I invite you to read
 my comments in the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2022/01/25/leetcode-681-next-closest-time-in-java/
 
 Keep in mind that one of the best ways to learn is
 to read, experiment and then repeat. Practice makes
